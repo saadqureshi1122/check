@@ -1,0 +1,20 @@
+# Ignore environment variables files
+.env
+*.env.sample
+*.env
+.env.sample
+.env.*
+.env.sample.*
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore all files in the "node_modules" directory
+/node_modules
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled files or build directories
+/build/
+/dist/
